@@ -1,3 +1,5 @@
+package missao1;
+
 public class SistemaSuporte {
 
     public static void main(String[] args) {
